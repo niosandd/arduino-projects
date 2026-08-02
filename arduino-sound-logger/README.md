@@ -1,7 +1,7 @@
 ## Подключение компонентов
 
 ### Arduino Uno
-![Arduino Uno](images/arduino-uno.jfif)
+![Arduino Uno](images/arduino-uno.jpg)
 
 | Компонент              | Пин на модуле     | Пин на Arduino |
 |------------------------|-------------------|----------------|
@@ -30,19 +30,19 @@
 ---
 
 ### LCD 1602 + I2C-адаптер
-![I2C Adapter](images/I2C-adapter.jfif)
-![LCD Display](images/LCD-display.jfif)
+![I2C Adapter](images/I2C-adapter.jpg)
+![LCD Display](images/LCD-display.jpg)
 
 ### RTC DS1302 (MH-Real-Time Clock Modules-2)
-![RTC DS1302](images/MH-Real-Time-Clock-Modules-2.jfif)
+![RTC DS1302](images/MH-Real-Time-Clock-Modules-2.jpg)
 
 ### Матричная клавиатура 4×4
-![4x4 Keypad](images/4x4.jfif)
+![4x4 Keypad](images/4x4.jpg)
 
 ### Датчик звука
-![Sound Sensor](images/sound-sensor-module.jfif)
+![Sound Sensor](images/sound-sensor-module.jpg)
 
 ---
 
 ### Общая схема подключения
-![Общая схема](images/main-scheme-arduino-sound-logger.jfif)
+![Общая схема](images/main-scheme-arduino-sound-logger.jpg)
