@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../images/sceme.jpg" alt="sceme">
+</div>
+
 ## Подключение компонентов
 ### Arduino Uno
 <img src="../images/arduino-uno.jpg" alt="Arduino Uno" width="320">
